@@ -28,7 +28,7 @@ sudo dnf5 install python3
 Clone this repository to your local workspace engineering directory:
 
 ```bash
-git clone https://github.com
+git clone https://github.com/JaquanteStacks/MalDetect
 cd MalDetect
 ```
 
